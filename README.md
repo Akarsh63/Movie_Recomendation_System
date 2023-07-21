@@ -1,4 +1,2 @@
-# Movie_Recomendation_System
-MOVIE RECOMENDATION SYSTEM 
-
+# MOVIE RECOMENDATION SYSTEM 
 Major Course Project
